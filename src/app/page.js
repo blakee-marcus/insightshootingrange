@@ -106,7 +106,7 @@ export default function Home() {
           viewport={{ once: true }}
           custom={1}>
           <div className='max-w-4xl mx-auto'>
-            <h2 className='text-2xl font-bold mb-6'>What You'll Find at Insight</h2>
+            <h2 className='text-2xl font-bold mb-6'>What You&apos;ll Find at Insight</h2>
             <ul className='grid gap-4 list-disc list-inside'>
               <li>20 indoor shooting stations (handicap accessible)</li>
               <li>Climate-controlled 25-yard range</li>
