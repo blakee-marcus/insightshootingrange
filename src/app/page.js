@@ -35,7 +35,7 @@ export default function Home() {
         <meta property='og:title' content='Insight Shooting Range | Artesia, California' />
         <meta
           property='og:description'
-          content='20 indoor lanes, rentals, training & a safe environment. Insight is Southern California’s go-to indoor gun range.'
+          content='20 indoor lanes, rentals, training & a safe environment. Insight is Southern California&apos;s go-to indoor gun range.'
         />
         <meta property='og:image' content='/og-image.jpg' />
         <meta property='og:url' content='https://www.insightrangeinc.com/' />
@@ -67,13 +67,13 @@ export default function Home() {
               className='text-5xl font-extrabold uppercase tracking-wider mb-6'
               variants={sectionVariants}
               custom={1}>
-              Southern California’s Largest Indoor Shooting Range
+              Southern California&apos;s Largest Indoor Shooting Range
             </motion.h1>
             <motion.p
               className='text-lg text-gray-300 leading-relaxed mb-8 max-w-xl'
               variants={sectionVariants}
               custom={2}>
-              Whether you’re a first-time shooter or a lifelong enthusiast, Insight offers a
+              Whether you&apos;re a first-time shooter or a lifelong enthusiast, Insight offers a
               welcoming, professional environment built around safety, skill-building, and respect.
               Our goal is simple: to help you feel confident, capable, and in control.
             </motion.p>

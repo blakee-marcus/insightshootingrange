@@ -37,6 +37,19 @@ export const metadata = {
     description:
       'Public indoor gun range in Artesia, CA. Firearm rentals, training sessions, and private party transfers available.',
   },
+  icons: {
+    icon: [
+      { url: '/favicon-96x96.png', sizes: '96x96', type: 'image/png' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico' },
+    ],
+    apple: '/apple-touch-icon.png',
+    shortcut: '/favicon.ico',
+  },
+  manifest: '/site.webmanifest',
+  appleWebApp: {
+    title: 'Insight',
+  },
 };
 
 export default function RootLayout({ children }) {
